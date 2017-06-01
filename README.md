@@ -14,6 +14,8 @@ These are the parameters that impacts the algorithm itself. You can also change 
 
   * _crossover_ : it defines how two organisms will transmit their DNA to their child.
   * _mutate_ : it defines how the DNA of one individual can evolve.
+  
+To choose which generations which generations you would like to see on the graphical interface, you can change the value of _MOD_ in the file _Population.java_.
 
 ![alt text](https://github.com/vcoppe/genetic-algorithm/blob/master/ga.png "genetic-algorithm")
 
