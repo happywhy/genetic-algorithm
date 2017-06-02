@@ -10,7 +10,7 @@ To play around with this project you can go in the file *Main.java* and vary the
   * _populationSize_
   * _mutationRate_
   
-These are the parameters that impacts the algorithm itself. You can also change the disposition of the obstacles and targets as well as their amount and sizes. Finally, you can try to modify the key functions of the algorithm in the file *DNA.java*:
+These are the parameters that impacts the algorithm itself. You can also change the disposition of the obstacles and targets as well as their amount and sizes. Finally, you can try to modify the key functions of the algorithm in the file *DNA.java* :
 
   * _crossover_ : it defines how two organisms will transmit their DNA to their child.
   * _mutate_ : it defines how the DNA of one individual can evolve.
