@@ -9,9 +9,9 @@ public class Organism {
 			startX = Main.startX, startY = Main.startY;
 	private Obstacle[] obstacles, target;
 	
-	DNA dna;						// DNA of the driver
+	DNA dna;				// DNA of the organism
 	private double fitness;			// fitness
-	private int time;				// time to finish the race
+	private int time;			// time to finish the race
 	private double distance;		// distance from target
 	private boolean finished;		// true <==> finished the race
 	private int collisions;			// number of collisions
